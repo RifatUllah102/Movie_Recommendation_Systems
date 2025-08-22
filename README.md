@@ -1,7 +1,7 @@
 # Recommendation_Systems
-Recommend movies based on the user choices
+Recommend movies based on the user's choices
 
-Use the attached csv data to check the python script.
+Use the attached CSV data to check the Python script.
 
 # Process: 
 1. Data Collection
