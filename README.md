@@ -1,4 +1,4 @@
-# Movie_Recommendation_Systems
+# Recommendation_Systems
 Recommend movies based on the user choices
 
 Use the attached csv data to check the python script.
